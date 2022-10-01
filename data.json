@@ -1,0 +1,65 @@
+let tasks = `[
+    {
+        "image": "images/gym.webp",
+        "name": "Going to GYM",
+        "description": "I need to take my sport clothes and water.",
+        "priorityLevel": 0,
+        "deadline": "01-10-2022"
+    },
+    {
+        "image": "images/kindergarden.jpg",
+        "name": "Pick up kid from Kindergarden",
+        "description": "Take some food and pick up my kid from Kindergarden",
+        "priorityLevel": 0,
+        "deadline": "01-10-2022"
+    },
+    {
+        "image": "images/walk.jpg",
+        "name": "take Bety in the walk",
+        "description": "",
+        "priorityLevel": 0,
+        "deadline": "01-10-2022"
+    },
+    {
+        "image": "images/lunch.jpg",
+        "name": "make lunch",
+        "description": "Take food",
+        "priorityLevel": 0,
+        "deadline": "01-10-2022"
+    },
+    {
+        "image": "images/family.jpg",
+        "name": " nice time with family",
+        "description": "play game,go somewhere",
+        "priorityLevel": 0,
+        "deadline": "01-10-2022"
+    },
+    {
+        "image": "images/dm.png",
+        "name": "Go to the dm shop",
+        "description": "buy lenor violet, cloths and liquid for windows",
+        "priorityLevel": 0,
+        "deadline": "01-10-2022"
+    },
+    {
+        "image": "images/cleaning.webp",
+        "name": "clean house",
+        "description": "clean house and wash the clothes",
+        "priorityLevel": 0,
+        "deadline": "01-10-2022"
+    },
+    {
+        "image": "images/visit.jpg",
+        "name": "visit parents",
+        "description": "Take what they need",
+        "priorityLevel": 0,
+        "deadline": "01-10-2022"
+    },
+    {
+        "image": "images/spa.jpg",
+        "name": "relax",
+        "description": "go to the spa welnes",
+        "priorityLevel": 0,
+        "deadline": "01-10-2022"
+    }
+]`
